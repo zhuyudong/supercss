@@ -1,0 +1,20 @@
+{
+  "name": "supercss",
+  "version": "1.0.0",
+  "description": "<img src=\"http://images.china-pub.com/ebook3800001-3805000/3804033/zcover.jpg\" alt=\"超实用的CSS代码段\" title=\"超实用的CSS代码段\" width=\"200\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyudong/supercss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuyudong/supercss/issues"
+  },
+  "homepage": "https://github.com/zhuyudong/supercss#readme"
+}
